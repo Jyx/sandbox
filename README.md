@@ -1,2 +1,1 @@
-# sandbox
-Playing with Jenkins pull request plugin
+# sandbox testing
